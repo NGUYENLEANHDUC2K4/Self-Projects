@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Advanced To do List",
+  "keywords": [
+    "backend",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "SlendermanVN",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
